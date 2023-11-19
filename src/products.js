@@ -2,19 +2,19 @@ const products = [
   {
     name: 'Barbie Puppy',
     color: 'White',
-    image: 'baju1',
+    image: 'images/baju1.jpg',
     price: 4000,
   },
   {
     name: 'Bloody Butterfly Zero Zero',
-    image: 'baju2',
+    image: 'images/baju2.jpg',
     color: 'Pink',
     price: 5000,
   },
   {
     name: 'Cactus Omoa',
     color: 'White',
-    image: 'baju3',
+    image: 'images/baju3.jpg',
     price: 9000,
   },
 ];
